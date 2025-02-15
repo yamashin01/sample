@@ -1,4 +1,0 @@
-# Gitとは
-## Githubとは
-
-## Gitlabとは
